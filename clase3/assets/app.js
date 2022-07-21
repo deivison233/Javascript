@@ -11,3 +11,4 @@ console.log(animales)
 
 let colores=["verde","blanco","rojo","azul"]
 console.log(colores.length)
+
