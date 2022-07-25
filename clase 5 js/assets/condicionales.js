@@ -13,3 +13,16 @@ if (age>=18){
 }else{
     console.log("eres menor de edad")
 }
+//condicionales con switch
+
+localStorage personName="deivison";
+switch (personName) {
+    console.log("le gusta el futbol");
+    break;
+  case "estevenson":  
+     default:console.log("es el monitor de front")
+     break;
+  default:
+      console.log("esta es una persona") 
+      break;    
+}
