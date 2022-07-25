@@ -26,3 +26,7 @@ switch (personName) {
       console.log("esta es una persona") 
       break;    
 }
+//condicional con operador ternario
+let personGenre="F"
+
+personGenre =="F"? console.log("es una mujer"):console.log("es un hombre")
