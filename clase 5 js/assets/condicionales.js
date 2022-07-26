@@ -30,3 +30,4 @@ switch (personName) {
 let personGenre="F"
 
 personGenre =="F"? console.log("es una mujer"):console.log("es un hombre")
+
