@@ -64,3 +64,17 @@ for (let index = 0; index <5; index++) {
     
 }
 
+//operadores bolean
+const entrarAlBar=(edad,pago)=>{
+    if (edad>=18 && pago==true) {
+        console.log("puede entrar al bar")
+    }else{
+        console.log("No puede entrar al bar")
+    }
+}
+entrarAlBar(18,true)
+
+console.log(true && true)
+console.log(true && false)
+console.log(false && true)
+console.log(false && false)
