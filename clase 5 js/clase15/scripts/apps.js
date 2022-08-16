@@ -10,3 +10,5 @@ console.table(usuario)
 const textoUsuario=JSON.stringify(usuario)
 
 console.log(textoUsuario)
+
+//
