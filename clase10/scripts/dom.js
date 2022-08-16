@@ -1,7 +1,6 @@
-//Obtener elementos con la funcion getElementByTagName
-let todosTitulos=document.getElementsByTagName('h1')
+//Obtener elementos con la funcion getElementByTagName CLASE
+let todosTitulos=document.getElementsByClassName('title')
 
 console.log(todosTitulos)
 
-let todosSubtitulos=document.getElementsByTagName('h2')
 
